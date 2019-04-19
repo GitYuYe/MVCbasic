@@ -5,7 +5,7 @@ return array(
 	'db_host'	=> 'localhost',
 	'db_user'	=> 'root',
 	'db_pass'	=> 'root',
-	'db_name'	=> 'itcast',
+	'db_name'	=> 'mvctest',
 	'charset'	=> 'utf8',
 
 	//框架初始化
